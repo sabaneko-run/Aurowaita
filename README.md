@@ -8,7 +8,7 @@ The goal of this project is to achieve absolute visual parity between KDE Plasma
 
 ## Manual Installation
 ```bash
-git clone [https://github.com/sabaneko-run/aurowaita.git](https://github.com/sabaneko-run/aurowaita.git)
+git clone https://github.com/sabaneko-run/aurowaita.git
 cd aurowaita
 mkdir -p ~/.local/share/aurorae/themes/
 cp -r src/* ~/.local/share/aurorae/themes/
